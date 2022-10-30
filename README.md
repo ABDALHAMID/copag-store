@@ -1,2 +1,0 @@
-# copag-store
-stage project
